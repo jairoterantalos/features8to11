@@ -4,7 +4,9 @@ public class Prueba implements PruebaPadre{
 
     @Override
     public int getAge() {
-        return 0;
+        return 1;
+
+
     }
 
     @Override
